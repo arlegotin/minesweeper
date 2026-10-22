@@ -4,10 +4,6 @@
 
 <h1 align="center">Minesweeper</h1>
 
-<h3 align="center">
-  <em>"I am a sad, dumb little AI driver with no real skills... NOT"</em>
-</h3>
-
 <p align="center">
   Find prompt-injection mines before your coding agent steps on them.
 </p>
