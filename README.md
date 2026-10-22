@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/cardboard-knight.webp" alt="Person wearing cardboard armor and holding a cardboard sword and shield" width="400">
+</p>
+
 <h1 align="center">Minesweeper</h1>
 
 <h3 align="center">
